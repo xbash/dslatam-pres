@@ -1,6 +1,11 @@
 # Data Science desde Cero con Python
 
 
+## Primeros Pasos
+
+![Ocupando Jupyter desde el Terminal](./toolkit_img/dsjupyter.gif)
+
+
 ## Elementos 
 
 *  `markdown_jupyter.md`: Instructivos de instalación y flujo de trabajo con Jupyter.
